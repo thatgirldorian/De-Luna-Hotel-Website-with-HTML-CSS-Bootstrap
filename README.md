@@ -11,6 +11,7 @@ This is a hotel website I made with HTML, CSS and the Bootstrap framework. The i
 - Bootstrap 4
 
 <h3>Link to site:</h3>
+https://hardcore-hoover-cb733e.netlify.app/
 
 <h3>Screenshots:</h3>
 
