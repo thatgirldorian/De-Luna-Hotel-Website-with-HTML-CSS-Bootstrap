@@ -1,7 +1,7 @@
 # De-Luna-Hotel-Website-with-HTML-CSS-Bootstrap
 <h3>Function & Description:</h3>
 
-This is a hotel website I made with HTML, CSS and the Bootstrap framework. The interface is pretty smooth and there is a navigation bar that shows users all the good stuff they can get.
+This is a hotel website I made with HTML, CSS and the Bootstrap framework. The interface is pretty smooth and there is a navigation bar that shows users all the available services and facilities they can get.
 
 <h3>Technology Used:</h3>
 
